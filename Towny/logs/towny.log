@@ -1,36 +1,3 @@
-2021-03-16 08:36:39,984 [ForkJoinPool.commonPool-worker-3]: [Towny] Cleaning up old backups...
-2021-03-16 08:36:39,987 [ForkJoinPool.commonPool-worker-3]: [Towny] Successfully cleaned backups.
-2021-03-16 08:36:39,991 [ForkJoinPool.commonPool-worker-3]: [Towny] Making backup...
-2021-03-16 08:36:40,279 [ForkJoinPool.commonPool-worker-3]: [Towny] Towny flatfiles and settings successfully backed up.
-2021-03-16 08:45:34,298 [Server thread]: [Towny] Disabling Towny v0.96.7.8
-2021-03-16 08:45:36,879 [Server thread]: [Towny] Loading Towny v0.96.7.8
-2021-03-16 08:45:37,909 [Server thread]: [Towny] Enabling Towny v0.96.7.8
-2021-03-16 08:45:38,073 [ForkJoinPool.commonPool-worker-5]: [Towny] Cleaning up old backups...
-2021-03-16 08:45:38,073 [ForkJoinPool.commonPool-worker-5]: [Towny] Successfully cleaned backups.
-2021-03-16 08:45:38,074 [ForkJoinPool.commonPool-worker-5]: [Towny] Making backup...
-2021-03-16 08:45:38,125 [ForkJoinPool.commonPool-worker-5]: [Towny] Towny flatfiles and settings successfully backed up.
-2021-03-16 11:23:19,805 [Server thread]: [Towny] Disabling Towny v0.96.7.8
-2021-03-16 11:23:22,822 [Server thread]: [Towny] Loading Towny v0.96.7.8
-2021-03-16 11:23:23,519 [Server thread]: [Towny] Enabling Towny v0.96.7.8
-2021-03-16 11:23:23,713 [ForkJoinPool.commonPool-worker-7]: [Towny] Cleaning up old backups...
-2021-03-16 11:23:23,714 [ForkJoinPool.commonPool-worker-7]: [Towny] Successfully cleaned backups.
-2021-03-16 11:23:23,722 [ForkJoinPool.commonPool-worker-7]: [Towny] Making backup...
-2021-03-16 11:23:23,815 [ForkJoinPool.commonPool-worker-7]: [Towny] Towny flatfiles and settings successfully backed up.
-2021-03-16 11:54:37,507 [Server thread]: [Towny] Disabling Towny v0.96.7.8
-2021-03-16 11:54:40,639 [Server thread]: [Towny] Loading Towny v0.96.7.8
-2021-03-16 11:54:41,325 [Server thread]: [Towny] Enabling Towny v0.96.7.8
-2021-03-16 11:54:41,654 [ForkJoinPool.commonPool-worker-1]: [Towny] Cleaning up old backups...
-2021-03-16 11:54:41,654 [ForkJoinPool.commonPool-worker-1]: [Towny] Successfully cleaned backups.
-2021-03-16 11:54:41,661 [ForkJoinPool.commonPool-worker-1]: [Towny] Making backup...
-2021-03-16 11:54:41,797 [ForkJoinPool.commonPool-worker-1]: [Towny] Towny flatfiles and settings successfully backed up.
-2021-03-16 12:00:01,830 [Craft Scheduler Thread - 12]: [Global Message] Nastał nowy dzien! Podatki zostały zebrane!
-2021-03-16 12:00:01,832 [Craft Scheduler Thread - 12]: [Resident Msg] __lil_Lenin__: Rządzący w mieście są zwolnieni z podatków.
-2021-03-16 12:00:01,849 [Craft Scheduler Thread - 12]: [Town Msg] MASŁO: Twoje miasto nie stać na zapłacanie podatku w wysokości $10.00, więc zostanie rozwiązane.
-2021-03-16 12:00:02,018 [Craft Scheduler Thread - 12]: [Global Message] The town of MASŁO has been deleted!
-2021-03-16 12:00:02,019 [Craft Scheduler Thread - 12]: [Global Message] Miasta MASŁO nie stać na przetrwanie.
-2021-03-16 12:00:02,020 [Craft Scheduler Thread - 12]: [Towny] Towny DailyTimerTask took 190ms to process.
-2021-03-16 12:00:02,021 [ForkJoinPool.commonPool-worker-1]: [Towny] Cleaning up old backups...
-2021-03-16 12:00:02,022 [ForkJoinPool.commonPool-worker-1]: [Towny] Successfully cleaned backups.
-2021-03-16 12:00:02,022 [ForkJoinPool.commonPool-worker-1]: [Towny] Making backup...
-2021-03-16 12:00:02,224 [ForkJoinPool.commonPool-worker-1]: [Towny] Towny flatfiles and settings successfully backed up.
-2021-03-16 19:02:45,208 [Server thread]: [Towny] Disabling Towny v0.96.7.8
+2021-03-17 10:34:52,037 [ForkJoinPool.commonPool-worker-3]: [Towny] Cleaning up old backups...
+2021-03-17 10:34:52,044 [ForkJoinPool.commonPool-worker-3]: [Towny] Successfully cleaned backups.
+2021-03-17 10:34:52,055 [ForkJoinPool.commonPool-worker-3]: [Towny] Making backup...
