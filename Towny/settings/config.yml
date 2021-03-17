@@ -1,6 +1,6 @@
 version:
   # This is the current version of Towny.  Please do not edit.
-  version: 0.96.7.8
+  version: 0.96.7.0
   # This is for showing the changelog on updates.  Please do not edit.
   last_run_version: 0.96.7.0
 # The language file you wish to use
@@ -258,16 +258,9 @@ town:
   # Maximum number of towns allowed on the server.
   town_limit: '3000'
  
-  # The maximum distance (in townblocks) that 2 town's homeblocks can be to be eligible for merging.
-  max_distance_for_merge: '10'
- 
   # If true, the below settings: min_plot_distance_from_town_plot and min_distance_from_town_homeblock
   # will be ignored for towns that are in the same nation. Setting to false will keep all towns separated the same.
   min_distances_ignored_for_towns_in_same_nation: 'true'
- 
-  # If true, the below settings: min_plot_distance_from_town_plot and min_distance_from_town_homeblock
-  # will be ignored for towns that are mutually allied. Setting to false will keep all towns separated the same.
-  min_distances_ignored_for_towns_in_allied_nation: 'false'
  
   # Minimum number of plots any towns plot must be from the next town's own plots.
   # Does not affect towns which are in the same nation.
@@ -855,23 +848,6 @@ filters_colour_chat:
       mayor: '&b'
       king: '&6'
  
-  # Colour codes used in the RELATIONAL placeholder %rel_townyadvanced_color% to display the relation between two players.
-  papi_relational_formatting:
-    # Used when two players have no special relationship.
-    none: '&f'
- 
-    # Used when two players are in the same town.
-    same_town: '&2'
- 
-    # Used when two players are in the same nation.
-    same_nation: '&2'
- 
-    # Used when two players' nations are allied.
-    ally: '&b'
- 
-    # Used when two players are enemies.
-    enemy: '&c'
- 
  
   ############################################################
   # +------------------------------------------------------+ #
@@ -1169,10 +1145,6 @@ invite_system:
   #e.g Purging database or removing a large amount of townblocks
   cancel_command: cancel
  
-  # How many seconds before a confirmation times out for the receiver.
-  # This is used for cost-confirmations and confirming important decisions.
-  confirmation_timeout: '20'
- 
   # When set for more than 0m, the amount of time (in minutes) which must have passed between
   # a player's first log in and when they can be invited to a town.
   cooldowntime: 0m
@@ -1303,14 +1275,6 @@ economy:
  
     # How much it costs to start a town.
     price_new_town: '250.0'
- 
-    # The base cost a town has to pay to merge with another town. The town that initiates the merge pays the cost.
-    price_town_merge: '0'
- 
-    # The percentage that a town has to pay per plot to merge with another town. The town that initiates the merge pays the cost.
-    # This is based on the price_claim_townblock.
-    price_town_merge_per_plot_percentage: '50'
- 
     # How much it costs to reclaim a ruined town.
     # This is only applicable if the town-ruins & town-reclaim features are enabled.
     price_reclaim_ruined_town: '500.0'
